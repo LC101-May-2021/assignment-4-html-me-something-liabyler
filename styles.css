@@ -1,7 +1,7 @@
 body {
-    margin: 8px 8px 8px 8px;
+    margin: 8px;
     background-color: darkgray;
-    
+    display:block;
     padding: 25px 25px 25px 25px;
   
 }
