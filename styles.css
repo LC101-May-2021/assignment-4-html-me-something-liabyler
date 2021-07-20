@@ -1,9 +1,9 @@
 body {
-    margin: 8px;
+    margin: 8px 8px 8px 8px;
     background-color: darkgray;
-    margin: 12px;
-    padding: 25px;
-    margin-right: 155px;
+    
+    padding: 25px 25px 25px 25px;
+  
 }
 #mainHeading {
     color:red;
